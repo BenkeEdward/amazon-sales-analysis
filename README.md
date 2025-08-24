@@ -26,10 +26,6 @@
 
 ---
 
-## 📂 Структура проекта
-<pre> ``` amazon-sales-analysis/ │ ├── data/ │ ├── raw/ │ └── processed/ │ ├── notebooks/ │ ├── 01_eda.ipynb │ ├── 02_cleaning.ipynb │ ├── 03_ml_models.ipynb │ ├── 04_nlp_reviews.ipynb │ └── 05_dashboard.ipynb │ ├── src/ │ ├── data_preprocessing.py │ ├── train_model.py │ └── utils.py │ ├── outputs/ │ ├── figures/ │ └── reports/ │ ├── requirements.txt └── README.md ``` </pre>
----
-
 ## 🛠 Используемые технологии
 - Python 3.10+  
 - pandas, numpy  
